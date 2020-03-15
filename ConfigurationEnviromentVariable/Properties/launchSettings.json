@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ConfigurationEnviromentVariable": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "section__key1": "svalue1",
+        "键": "值",
+        "pre_key1": "prevalue1",
+        "key1": "value1"
+      }
+    }
+  }
+}
